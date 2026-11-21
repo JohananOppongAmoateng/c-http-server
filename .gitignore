@@ -1,3 +1,5 @@
+/build/
+
 # Prerequisites
 *.d
 
@@ -19,7 +21,9 @@
 # Libraries
 *.lib
 *.a
-*.la
+*.la]
+.cursorrules
+.o
 *.lo
 
 # Shared objects (inc. Windows DLLs)
